@@ -2,8 +2,8 @@
 
 ## Resources
 
-- Mapbox API
-
+- [Mapbox API](https://www.mapbox.com)
+- [Leaflet JS Library](https://leafletjs.com)
 - Software: Visual Studio Code (javascript, css, html)
 
 ## Overview
